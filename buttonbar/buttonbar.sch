@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PCB Buttonbar"
-Date "2021-09-20"
-Rev "1.0"
+Date "2021-10-08"
+Rev "1.1"
 Comp "Bernhard Bablok"
 Comment1 "https://github.com/bablokb/pcb-buttonbar"
 Comment2 ""
