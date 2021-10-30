@@ -38,6 +38,9 @@ In the directory `jclpcb` you will find gerber-files, bom and cpl-file
 suitable for JCLPCB. Migrating to a format suitable for your favorite
 pcb-assembly service should be straightforward.
 
+![](pcb-top.jpg)
+![](pcb-bottom.jpg)
+
 
 Test Program
 ------------
