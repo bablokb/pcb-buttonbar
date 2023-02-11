@@ -20,9 +20,10 @@ so this will convert the curve from the RC-filter to sharp edge.
 Goodies
 -------
 
-The buttonbar supports 6x6mm buttons and 12x12mm buttons. In addition
-to the debounce-logic (bottom side of the pcb), there are optional
-LEDs+resistors on the top.
+The buttonbar supports buttons with four pins spaced 5.08mm x 5.08mm.
+Note that normal buttons have spacings of 6.5mm x 4.5mm. 
+In addition to the debounce-logic (bottom side of the pcb), there are optional
+LEDs on the top.
 
 ![](pcb-3d-top.png)
 ![](pcb-3d-bottom.png)
@@ -34,7 +35,7 @@ The bottom-side uses 0603, ideal for automatic assembly.
 Production Files
 ----------------
 
-In the directory `jclpcb` you will find gerber-files, bom and cpl-file
+In the directory `production_files` you will find gerber-files, bom and cpl-file
 suitable for JCLPCB. Migrating to a format suitable for your favorite
 pcb-assembly service should be straightforward.
 
