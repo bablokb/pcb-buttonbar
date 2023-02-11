@@ -30,11 +30,13 @@ LEDs+resistors on the top.
 The footprints for the top-side are 1206, suitable for hand-soldering.
 The bottom-side uses 0603, ideal for automatic assembly.
 
+Checkout the branch "1x6-layout" for an alternatve button-layout.
+
 
 Production Files
 ----------------
 
-In the directory `jclpcb` you will find gerber-files, bom and cpl-file
+In the directory `production_files` you will find gerber-files, bom and cpl-file
 suitable for JCLPCB. Migrating to a format suitable for your favorite
 pcb-assembly service should be straightforward.
 
