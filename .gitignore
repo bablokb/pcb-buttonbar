@@ -1,7 +1,6 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
-*.zip
 buttonbar.xml
 
 # Temporary files
@@ -19,3 +18,4 @@ fp-info-cache
 
 work
 TODO
+jlcpcb
