@@ -6,8 +6,8 @@
 
   (title_block
     (title "PCB Buttonbar")
-    (date "2023-02-10")
-    (rev "2.1")
+    (date "2023-02-11")
+    (rev "2.2")
     (company "Bernhard Bablok")
     (comment 1 "https://github.com/bablokb/pcb-buttonbar")
   )
@@ -1383,7 +1383,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 33.02 38.1 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006144b15a)
     (property "Reference" "SW1" (id 0) (at 33.02 41.91 0))
     (property "Value" "SW_Push" (id 1) (at 33.02 44.45 0))
@@ -1606,7 +1606,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 105.41 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061460071)
     (property "Reference" "D2" (id 0) (at 227.5078 98.933 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 101.2444 0))
@@ -1657,7 +1657,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Male") (at 186.69 121.92 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006146316c)
     (property "Reference" "J2" (id 0) (at 187.96 107.95 0))
     (property "Value" "Conn_01x06_Male" (id 1) (at 187.96 111.76 0))
@@ -1676,7 +1676,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 116.84 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061468edb)
     (property "Reference" "D3" (id 0) (at 227.5078 110.363 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 112.6744 0))
@@ -1709,7 +1709,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 127 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006146af6b)
     (property "Reference" "D4" (id 0) (at 227.5078 120.523 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 122.8344 0))
@@ -1742,7 +1742,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 106.68 38.1 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006146bbce)
     (property "Reference" "SW2" (id 0) (at 106.68 40.64 0))
     (property "Value" "SW_Push" (id 1) (at 106.68 43.18 0))
@@ -1883,7 +1883,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 138.43 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006146d04e)
     (property "Reference" "D5" (id 0) (at 227.5078 131.953 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 134.2644 0))
@@ -1916,7 +1916,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 149.86 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006146f5dd)
     (property "Reference" "D6" (id 0) (at 227.5078 143.383 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 145.6944 0))
@@ -1949,7 +1949,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 227.33 95.25 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614719dd)
     (property "Reference" "D1" (id 0) (at 227.5078 88.773 0))
     (property "Value" "LED green 1206" (id 1) (at 227.5078 91.0844 0))
@@ -1982,7 +1982,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 33.02 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061471c07)
     (property "Reference" "SW3" (id 0) (at 33.02 86.36 0))
     (property "Value" "SW_Push" (id 1) (at 33.02 88.9 0))
@@ -2123,7 +2123,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 106.68 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614764c7)
     (property "Reference" "SW4" (id 0) (at 106.68 86.36 0))
     (property "Value" "SW_Push" (id 1) (at 106.68 88.9 0))
@@ -2264,7 +2264,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 33.02 127 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006147c566)
     (property "Reference" "SW5" (id 0) (at 34.29 130.81 0))
     (property "Value" "SW_Push" (id 1) (at 34.29 133.35 0))
@@ -2405,7 +2405,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 106.68 127 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006147fda2)
     (property "Reference" "SW6" (id 0) (at 106.68 130.81 0))
     (property "Value" "SW_Push" (id 1) (at 106.68 134.62 0))
@@ -2580,7 +2580,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 116.84 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614a9b14)
     (property "Reference" "H3" (id 0) (at 119.38 181.7116 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2597,7 +2597,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 116.84 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614a9e9e)
     (property "Reference" "H1" (id 0) (at 119.38 174.0916 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2614,7 +2614,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 144.78 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614aa635)
     (property "Reference" "H2" (id 0) (at 147.32 174.0916 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2631,7 +2631,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 144.78 184.15 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000614aab86)
     (property "Reference" "H4" (id 0) (at 147.32 182.9816 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2643,6 +2643,23 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 144.78 184.15 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 117.475 191.135 0) (unit 1)
+    (in_bom no) (on_board yes)
+    (uuid 2a5410b2-8875-4f19-8aee-8df23f4d99d3)
+    (property "Reference" "H5" (id 0) (at 120.015 189.9666 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 120.015 192.278 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 117.475 191.135 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 117.475 191.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -2666,7 +2683,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 184.15 66.04 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid e9b4ec31-dff8-4861-9eb2-32d211f32cbc)
     (property "Reference" "J3" (id 0) (at 172.72 64.135 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 172.72 66.675 0))
@@ -2682,8 +2699,25 @@
     (pin "4" (uuid 8d02a802-1917-4141-ac88-76d817dec5ba))
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 145.415 192.405 0) (unit 1)
+    (in_bom no) (on_board yes)
+    (uuid f5d39a21-bfa6-4eed-bb3d-07b95ee461d4)
+    (property "Reference" "H6" (id 0) (at 147.955 191.2366 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 147.955 193.548 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 145.415 192.405 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 145.415 192.405 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 184.15 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid fe1d719b-36e2-4a79-aeb0-6270f4520f52)
     (property "Reference" "J1" (id 0) (at 172.72 53.34 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 172.72 57.15 0))
@@ -2808,6 +2842,12 @@
     )
     (path "/00000000-0000-0000-0000-0000614aab86"
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
+    (path "/2a5410b2-8875-4f19-8aee-8df23f4d99d3"
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
+    (path "/f5d39a21-bfa6-4eed-bb3d-07b95ee461d4"
+      (reference "H6") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/fe1d719b-36e2-4a79-aeb0-6270f4520f52"
       (reference "J1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
