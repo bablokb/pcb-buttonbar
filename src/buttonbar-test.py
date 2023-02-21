@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # ----------------------------------------------------------------------------
-# A simple test for the button-bar
+# A simple test for the button-bar (Raspberry Pi version)
 #
 # Author: Bernhard Bablok
 # License: GPL3
