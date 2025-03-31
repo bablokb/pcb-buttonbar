@@ -3,6 +3,7 @@
 
 buttonbar.xml
 
+*.stl
 # Temporary files
 *.000
 *.bak
